@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
@@ -25,6 +26,22 @@ namespace UwpApp
         public MainPage()
         {
             this.InitializeComponent();
+        }
+
+        ///===========================================================================================
+        /// <summary>デバッグテキスト表示ボタンクリック</summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        ///===========================================================================================
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Debug.WriteLine("デバッグテキストの表示");                                 // 出力コンソールにテキストを表示させる。
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var test = new testView();
+            Mdi.Show(test);
         }
     }
 }

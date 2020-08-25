@@ -1,0 +1,1 @@
+C:\task_hiraiwa\testフォルダ\AppUWP\UwpApp\UwpApp\UwpApp.csproj;x86

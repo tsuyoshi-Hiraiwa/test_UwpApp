@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="UWP.MDI" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="UWP.MDI">
+				<NamedResource name="UWP.MDI.xr.xml" uri="ms-resource://UWP.MDI/Files/UWP.MDI/UWP.MDI.xr.xml">
+					<Candidate type="Path">
+						<Value>UWP.MDI\UWP.MDI.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="MDIChild">
+						<NamedResource name="MDIChild.xbf" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Controls/MDIChild/MDIChild.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="MDIContainer">
+						<NamedResource name="MDIContainer.xbf" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Controls/MDIContainer/MDIContainer.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="Aero">
+						<NamedResource name="Close.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/Close.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\Close.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Maximize.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/Maximize.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\Maximize.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="MaximizedClose.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/MaximizedClose.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\MaximizedClose.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="MaximizedMinimize.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/MaximizedMinimize.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\MaximizedMinimize.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="MaximizedRestore.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/MaximizedRestore.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\MaximizedRestore.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Minimize.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/Minimize.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\Minimize.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Restore.png" uri="ms-resource://UWP.MDI/Files/UWP.MDI/Themes/Aero/Restore.png">
+							<Candidate type="Path">
+								<Value>UWP.MDI\Themes\Aero\Restore.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

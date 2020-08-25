@@ -40,6 +40,14 @@
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.10, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Controls": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "UWP.MDI": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             }
           },
           "imports": [
